@@ -1,2 +1,2 @@
 # helloJavaScript
-THis repo contains javascript learnings and related projects
+This repo contains javascript learnings and related projects
