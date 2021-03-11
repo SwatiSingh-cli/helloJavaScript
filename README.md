@@ -1,2 +1,2 @@
 # helloJavaScript
-My first program in javascript
+THis repo contains javascript learnings and related projects
